@@ -1,0 +1,14 @@
+[
+    {
+        "supplierId": 1,
+        "supplierName": "CISCO",
+        "supplierCode": "S001",
+        "location": "kolkata",
+    },
+    {
+        "supplierId": 2,
+        "supplierName": "Unisys",
+        "supplierCode": "U001",
+        "location": "Bangalore",   
+    }
+]
